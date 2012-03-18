@@ -1,7 +1,7 @@
 MY_Migration
 ============================
 
-CodeIgniter's development branch has configurable migration tables on the way. Until then, I really needed them, so I extended the migration library.
+CodeIgniter's development branch has a configurable migration table on the way. Until then, I really needed it, so I extended the migration library.
 
 Setup
 ----------------------------
